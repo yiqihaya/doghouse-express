@@ -1,0 +1,15 @@
+{
+  "name": "package-manager",
+  "version": "1.0.0",
+  "description": "快递信息收集管理软件 - 仿苹果风格淡蓝色主题",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "sql.js": "^1.12.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
